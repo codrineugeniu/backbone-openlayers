@@ -13,13 +13,18 @@ To view the application in your browser:
    $ git clone https://github.com/codrineugeniu/backbone-openlayers.git
    ```
 
-1. Install dependencies:
+2. Install dependencies:
 
    ```
    $ npm install
    ```
+3. Start node: 
 
-1. Point your browser to `localhost:3000`.
+  ```
+  $ node server.js
+  ```
+
+4. Point your browser to `localhost:3000`.
 
 ## Explanations
 
